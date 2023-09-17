@@ -1,4 +1,4 @@
-<img align="right" src="#">
+<img align="right" src="https://github.com/MaruJigar/MaruJigar/blob/main/images/Black%20Technology%20LinkedIn%20Banner.jpg">
 <br />
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -78,9 +78,9 @@
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/Marujigar/UrbanClosetWeb" title="UrbanClosetWeb">
-  <img align="left" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Marujigar&repo=Java-Basics&theme=react&border_color=61dafb&border_radius=10"></a>
+  <img align="left" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=marujigar&repo=Java-Basics&theme=react&border_color=61dafb&border_radius=10"></a>
   
-  <a align="right" href="https://github.com/Marujigar/UrbanClosetAndroid" title="UrbanClosetAndroid"><img align="right" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Marujigar&repo=Python-Basics&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Marujigar/UrbanClosetAndroid" title="UrbanClosetAndroid"><img align="right" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=marujigar&repo=Python-Basics&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
