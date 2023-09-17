@@ -53,13 +53,14 @@
 <br>
 <p align=center>
   <div align=center>
-    <!-- <a href="https://github.com/Marujigar/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Marujigar&theme=react&border=61dafb&hide_border=true" alt="Marujigar" /> -->
+    <a href="https://github.com/Marujigar/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Marujigar&theme=react&border=61dafb&hide_border=true" alt="Marujigar" />
     </a>
-    <!-- <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Marujigar&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a> -->
-  </div>
+    </a>
+    
+    </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/Marujigar/github-readme-stats">
@@ -77,25 +78,25 @@
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/JigarMaru31/UrbanClosetWeb" title="Algorithms">
-  <!-- <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Marujigar&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a> -->
+  <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Marujigar&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a>
   
   <a align="right" href="https://github.com/Marujigar/DataStructures" title="Data Structures">
-  <!-- <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Marujigar&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a> -->
+  <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Marujigar&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/Marujigar/Turkce-Heceleme-CPP" title="Turkce-Heceleme-CPP">
-  <!-- <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Marujigar&repo=Turkce-Heceleme-CPP&theme=react&border_color=61dafb&border_radius=10"></a> -->
+  <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Marujigar&repo=Turkce-Heceleme-CPP&theme=react&border_color=61dafb&border_radius=10"></a>
   
   <a align="right" href="https://github.com/Marujigar/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT">
-  <!-- <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Marujigar&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10"></a> -->
+  <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Marujigar&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/Marujigar/cpp-openmp-needleman-wunsch" title="Needleman Wunsch Algorithm With OpenMP">
-  <!-- <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Marujigar&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a> -->
+  <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Marujigar&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/Marujigar/javascript-minesweeper" title="Minesweeper">
-  <!-- <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Marujigar&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a> -->
+  <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Marujigar&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
